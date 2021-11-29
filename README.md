@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hi, I'm Sangkwon who is interested in backend develop from Korea.
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qurma">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qurma"> -->
 
 
 ## ⛓SKILL 
