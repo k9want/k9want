@@ -1,5 +1,43 @@
-### Hi there 👋
+## Hi there 👋
+Hi, I'm Sangkwon who is interested in backend develop from Korea.
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qurma">
 
+
+## ⛓SKILL 
+
+###  Programming Languages
+
+- JS : 서버 개발에 사용하는 주력으로 사용하는 언어입니다.
+- Python : 자료구조 및 알고리즘 공부를 위해 배웠으며 기본적인 문제를 해결할 수 있습니다. 
+### Backend Development
+- NodeJs
+### Database
+- MySQL
+<!-- ### Devops
+- AWS  -->
+<!-- ### Platforms 
+- IntelliJ
+- DataGrip -->
+<!-- ### Tools 
+- Git/Github
+- Discode/slack -->
+
+## 💡Project
+- 맥덕(맥주덕후)  : 12월 4일 배포예정
+> 맥주 검색 및 추천과 리뷰를 통해 맥주 정보를 얻을 수 있는 앱 <현재 AOS개발자[creativeduck](https://github.com/creativeduck)와 협업중>
+
+## ⏲Activity
+### 🌱 SSAC
+- 기간 : 2021.08.12 ~ 2021.12.23
+- 분야 : Server
+-  프로젝트
+-  [쿠팡 클론코딩](https://github.com/k9want/qmacopang) - 템플릿 라이센스로 인해 비공개
+-  [당근마켓 클론코딩](https://github.com/mock-ssac3/ssac3_test_server_carrotmarket_qma) - 템플릿 라이센스로 인해 비공개 (with [dnjstjr245](https://github.com/dnjstjr245)) &nbsp;
+>ERD : https://aquerytool.com/aquerymain/index/?rurl=891f754c-5d60-4c04-b931-867389d31a92&
+   Password : o76b7u 
+        
+ >[당근마켓(클론) API 명세서](https://docs.google.com/spreadsheets/d/1_uVYCtxgPj2_7sZ9gUqG8umyXelztWehpKlmGYwJnho/edit?usp=sharing)
+ -  맥덕(맥주덕후) 프로젝트 진행중 ~ 12.04 배포 with [creativeduck](https://github.com/creativeduck)
 <!--
 **k9want/k9want** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
