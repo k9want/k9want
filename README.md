@@ -7,7 +7,7 @@ Hi, I'm Sangkwon who is interested in backend develop from Korea.
 
 ###  Programming Languages
 
-- JS : 서버 개발에 사용하는 주력으로 사용하는 언어입니다.
+- JS : 서버 개발에 주력으로 사용하는 언어입니다.
 - Python : 자료구조 및 알고리즘 공부를 위해 배웠으며 기본적인 문제를 해결할 수 있습니다. 
 ### Backend Development
 - NodeJs
