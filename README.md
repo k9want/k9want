@@ -37,6 +37,9 @@ Hi, I'm Sangkwon who is interested in backend develop from Korea.
    Password : o76b7u 
         
  >[당근마켓(클론) API 명세서](https://docs.google.com/spreadsheets/d/1_uVYCtxgPj2_7sZ9gUqG8umyXelztWehpKlmGYwJnho/edit?usp=sharing)
+
+  >[Youtube(client)]( https://youtu.be/IyWdrRcM81Q) , [Youtube(Server)](https://youtu.be/_Sk1aY0zcsE)
+
  -  맥덕(맥주덕후) 프로젝트 진행중 ~ 12.04 배포 with [creativeduck](https://github.com/creativeduck)
 <!--
 **k9want/k9want** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
