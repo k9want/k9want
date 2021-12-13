@@ -33,12 +33,11 @@ Hi, I'm Sangkwon who is interested in backend develop from Korea.
 - 기간 : 2021.08.12 ~ 2021.12.23
 - 분야 : Server
 -  프로젝트
--  [쿠팡 클론코딩](https://github.com/k9want/qmacopang) - 템플릿 라이센스로 인해 비공개
--  [당근마켓 클론코딩](https://github.com/mock-ssac3/ssac3_test_server_carrotmarket_qma) - 템플릿 라이센스로 인해 비공개 (with [dnjstjr245](https://github.com/dnjstjr245)) &nbsp;
+-  [당근마켓 모의외주](https://github.com/mock-ssac3/ssac3_test_server_carrotmarket_qma) - 템플릿 라이센스로 인해 비공개 (with [dnjstjr245](https://github.com/dnjstjr245)) &nbsp;
 >ERD : https://aquerytool.com/aquerymain/index/?rurl=891f754c-5d60-4c04-b931-867389d31a92&
    Password : o76b7u 
         
- >[당근마켓(클론) API 명세서](https://docs.google.com/spreadsheets/d/1_uVYCtxgPj2_7sZ9gUqG8umyXelztWehpKlmGYwJnho/edit?usp=sharing)
+ >[당근마켓(모의외주) API 명세서](https://docs.google.com/spreadsheets/d/1_uVYCtxgPj2_7sZ9gUqG8umyXelztWehpKlmGYwJnho/edit?usp=sharing)
 
   >[Youtube(client)]( https://youtu.be/IyWdrRcM81Q) , [Youtube(Server)](https://youtu.be/_Sk1aY0zcsE)
 
