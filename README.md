@@ -25,7 +25,7 @@ Hi, I'm Sangkwon who is interested in backend develop from Korea.
 - Discode/slack -->
 
 ## 💡Project
-- 맥덕(맥주덕후)  : 12월 4일 배포예정
+- 맥덕(맥주덕후)  : 12월 6일 배포
 > 맥주 검색 및 추천과 리뷰를 통해 맥주 정보를 얻을 수 있는 앱 <현재 AOS개발자[creativeduck](https://github.com/creativeduck)와 협업중>
 
 ## ⏲Activity
