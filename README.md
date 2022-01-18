@@ -41,7 +41,7 @@ Hi, I'm Sangkwon who is interested in backend develop from Korea.
 
   >[Youtube(client)]( https://youtu.be/IyWdrRcM81Q) , [Youtube(Server)](https://youtu.be/_Sk1aY0zcsE)
 
- -  맥덕(맥주덕후) 프로젝트 진행중 ~ 12.14 배포예정 with [creativeduck](https://github.com/creativeduck)
+ -  맥덕(맥주덕후) 프로젝트 진행중 ~ 12.14 배포 with [creativeduck](https://github.com/creativeduck)
 <!--
 **k9want/k9want** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
